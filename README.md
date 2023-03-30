@@ -1,3 +1,6 @@
+# To view website use link below
+https://altsin96.github.io/mod-website/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
